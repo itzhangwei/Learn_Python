@@ -136,5 +136,3 @@ print("")
 # 结构：False
 print("   1".isspace())
 print("1234".isdigit())
-#submitter：joker
-#content:Python string字符串操作，对于字符串的操作函数使用包含：spilt切割函数,center居中函数,strip去除首尾字符函数，join字符串序列拼接函数，find字符串查找函数，lower字符串转换小写函数，
